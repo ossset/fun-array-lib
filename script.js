@@ -1,4 +1,4 @@
-var lib = require('./src/awesomeLib-old')
+var lib = require('./src/awesomeLib-es5')
 
 
 
